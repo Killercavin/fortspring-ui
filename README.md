@@ -106,7 +106,7 @@ fortspring-ui/
 │   │   ├── RegisterPage.tsx
 │   │   ├── LoginPage.tsx
 │   │   ├── ProfilePage.tsx
-│   │   └── HomePage.tsx
+│   │   └── Home.tsx
 │   ├── index.css
 │   ├── main.tsx
 │   └── App.tsx
@@ -114,6 +114,7 @@ fortspring-ui/
 ├── .env
 ├── tailwind.config.js
 ├── package.json
+├── LICENSE
 └── README.md
 ```
 
